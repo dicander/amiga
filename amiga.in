@@ -1,0 +1,19 @@
+2
+8
+red same-as 1
+danish same-as 1
+perl same-as 5
+atari same-as 2
+linux same-as 3
+mac same-as 4
+windows same-as 5
+anna same-as 1
+8
+chris left-of amiga
+chris left-of 4
+c same-as 1
+danish same-as 1
+red same-as 1
+linux same-as red
+windows next-to linux
+mac left-of swedish
